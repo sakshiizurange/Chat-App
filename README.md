@@ -1,3 +1,3 @@
 # Chat App
 
-[Screenshot](img1.jpg)
+[Screenshot](img1.html)
